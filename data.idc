@@ -1,2 +1,0 @@
-checking .gitignore
-checking .gitignore
