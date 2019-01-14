@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Riyas Ellyas    riyas.ellyas@safetyresearch.pl     skype:riyasellyas
 
 # THANKS
 
